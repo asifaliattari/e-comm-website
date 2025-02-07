@@ -22,9 +22,9 @@ export default function Footer(){
                    <div className=" w-[200px]  ">
                     <h1 className="font-bold text-xl">Support</h1>
                     <ul>
-                      <li className="pt-1 cursor-pointer">111 Bijoy sarani, Dhaka,  DH 1515, Bangladesh.</li>
-                      <li className="pt-1 cursor-pointer">exclusive@gmail.com</li>
-                      <li className="pt-1 cursor-pointer">+88015-88888-9999</li>
+                      <li className="pt-1 cursor-pointer">123 West Wharf Kemari, Karachi xyz, Pakistan.</li>
+                      <li className="pt-1 cursor-pointer">asif123@gmail.com</li>
+                      <li className="pt-1 cursor-pointer">+92111-22222-33333</li>
                     </ul>
                    </div>
                    <div className=" w-[200px] ">

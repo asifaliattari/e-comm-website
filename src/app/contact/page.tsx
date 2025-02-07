@@ -15,11 +15,11 @@ function Contact(){
                                  {/* heading */}
                                  <div className='flex justify-start items-center   '>
                                 <span className='my-2 bg bg-red-500 p-3 pl-3 rounded-[50%]'> <FontAwesomeIcon icon={faPhone} className="text-xl text-white" /></span>
-                                 <h2 className='text-xl font-bold pl-3'>Call To Us</h2>
+                                 <h2 className='text-xl font-bold pl-3'>Contact Us</h2>
                                  </div>
                                  <ul className='gap-y-1 flex flex-col '>
-                                    <li  className='text-sm pl-3 '>We are available 24/7, 7 days  a week.</li>
-                                    <li  className='text-sm pl-3'>Phone: +8801611112222</li>
+                                    <li  className='text-sm pl-3 '>We are available 24/7..</li>
+                                    <li  className='text-sm pl-3'>Phone: +92321111111</li>
                                  </ul>
                             </div>
                             <hr /> 
@@ -28,12 +28,12 @@ function Contact(){
                                  {/* heading */}
                                  <div className='flex justify-start items-center   '>
                                 <span className='my-2 bg bg-red-500 p-3 pl-3 rounded-[50%]'> <FontAwesomeIcon icon={faMessage} className="text-xl text-white" /></span>
-                                 <h2 className='text-xl font-bold pl-3'>Write To US</h2>
+                                 <h2 className='text-xl font-bold pl-3'>E-mail US</h2>
                                  </div>
                                  <ul className='gap-y-1 flex flex-col  '>
                                     <li  className='text-sm pl-3 '>Fill out our form and we will contact you within 24 hours.</li>
-                                    <li  className='text-sm pl-3'>Emails: customer@exclusive.com</li>
-                                    <li  className='text-sm pl-3'>Emails: support@exclusive.com</li>
+                                    <li  className='text-sm pl-3'>Emails: customer@123.com</li>
+                                    <li  className='text-sm pl-3'>Emails: support@123.com</li>
                                  </ul>
                             </div>
                            
